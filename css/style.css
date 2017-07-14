@@ -1,3 +1,18 @@
+@font-face {
+    font-family: playFairDisplay;
+    src: url(/fonts/PlayfairDisplay-Bold.ttf);
+}
+
+header {
+    background: url(/img/img_header@1x.jpg) no-repeat fixed;
+    background-size: 100% auto;
+    height: 100vh;
+}
+
 #header_title {
-    color: blueviolet;
+    top: 50%;
+    left: 50%;
+    color: white;
+    font-family: playFairDisplay;
+    margin: 0 auto;
 }
