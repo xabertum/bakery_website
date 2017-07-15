@@ -36,6 +36,7 @@ a {
     font-size: 2em;
     top: 55.5%;
     left: 36%;
+    letter-spacing: 2px;
 }
 
 #header-subtitle-2 {
@@ -44,12 +45,13 @@ a {
     top: 59%;
     left: 42%;
     font-size: 2em;
+    letter-spacing: 2px;
 }
 
 #dashed-line {
     position: absolute;
-    top: 55%;
-    left: 44%%;
+    top: 51%;
+    left: 46%;
 }
 
 @media all and (max-width: 1200px) {
