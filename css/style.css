@@ -7,6 +7,11 @@ header {
     position: relative;
 }
 
+.navbar {
+    margin-bottom: 0px;
+}
+
+
 
 #header_title {
     color: white;
@@ -17,32 +22,27 @@ header {
     top: 30%;
     left: 25%;
 }
+
 #header-subtitle {
     color: white;
     position: absolute;
     font-size: 2em;
     top: 60%;
     left: 50%;
-        
 }
+
 #header-subtitle-2 {
     color: white;
     position: absolute;
     top: 35%;
     left: 50%;
-    
-    
-    
-    
 }
+
 #dashed-line {
     position: absolute;
     top: 55%;
     left: 50%;
 }
-
-
-
 
 @media all and (max-width: 1200px) {
     header_title {
