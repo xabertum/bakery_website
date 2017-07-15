@@ -1,18 +1,63 @@
 @font-face {
     font-family: playFairDisplay;
-    src: url(/fonts/PlayfairDisplay-Bold.ttf);
+    src: url(../fonts/PlayfairDisplay-Bold.ttf);
 }
 
 header {
-    background: url(/img/img_header@1x.jpg) no-repeat fixed;
-    background-size: 100% auto;
-    height: 100vh;
+    position: relative;
 }
 
+
 #header_title {
-    top: 50%;
-    left: 50%;
     color: white;
     font-family: playFairDisplay;
-    margin: 0 auto;
+    font-size: 92pt;
+    letter-spacing: 10px;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+#header-subtitle {
+    color: white;
+    position: absolute;
+    font-size: 2em;
+    top: 60%;
+    left: 50%;
+        
+}
+#header-subtitle-2 {
+    color: white;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    
+    
+    
+    
+}
+#dashed-line {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+}
+
+
+
+
+@media all and (max-width: 1200px) {
+    header_title {
+        font-size: 1.5em;
+    }
+}
+
+@media all and (max-width: 1000px) {
+    header_title {
+        font-size: 1.2em;
+    }
+}
+
+@media all and (max-width: 500px) {
+    header_title {
+        font-size: 0.8em;
+    }
 }
