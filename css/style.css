@@ -7,8 +7,6 @@
     position: relative;
 }
 
-
-
 .navbar {
     position: absolute;
     margin: 0 auto;
@@ -56,32 +54,20 @@ a {
 
 #medalla {
     position: relative;
-    
-    
 }
 
 #img-bottom-header {
     position: absolute;
-    top:96%;
+    top: 96%;
     left: 50%;
-    
 }
-
-
-
-
-
-
-
-
-
 
 @media all and (max-width: 1440px) {
     #header_title {
         font-size: 5em;
     }
-    
-    #header-subtitle, #header-subtitle-2 {
+    #header-subtitle,
+    #header-subtitle-2 {
         font-size: 1.5em;
     }
 }
