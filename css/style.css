@@ -3,7 +3,7 @@
     src: url(../fonts/PlayfairDisplay-Bold.ttf);
 }
 
-header {
+.header_content {
     position: relative;
 }
 
@@ -53,6 +53,28 @@ a {
     top: 51%;
     left: 46%;
 }
+
+#medalla {
+    position: relative;
+    
+    
+}
+
+#img-bottom-header {
+    position: absolute;
+    top:96%;
+    left: 50%;
+    
+}
+
+
+
+
+
+
+
+
+
 
 @media all and (max-width: 1440px) {
     #header_title {
