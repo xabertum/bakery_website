@@ -7,11 +7,18 @@ header {
     position: relative;
 }
 
+
+
 .navbar {
+    position: absolute;
+    margin: 0 auto;
     margin-bottom: 0px;
+    color: white;
 }
 
-
+a {
+    color: white;
+}
 
 #header_title {
     color: white;
@@ -28,20 +35,21 @@ header {
     position: absolute;
     font-size: 2em;
     top: 60%;
-    left: 50%;
+    left: 36%;
 }
 
 #header-subtitle-2 {
     color: white;
     position: absolute;
-    top: 35%;
-    left: 50%;
+    top: 65%;
+    left: 42%;
+    font-size: 2em;
 }
 
 #dashed-line {
     position: absolute;
     top: 55%;
-    left: 50%;
+    left: 44%%;
 }
 
 @media all and (max-width: 1200px) {
@@ -56,7 +64,7 @@ header {
     }
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 480px) {
     header_title {
         font-size: 0.8em;
     }
