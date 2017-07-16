@@ -81,7 +81,13 @@ a {
 
 
 
-
+#img-right-content {
+    position: absolute;
+    right: 34%;
+    margin-top: 7%;
+    
+    
+}
 
 
 
