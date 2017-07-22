@@ -3,6 +3,8 @@
     src: url(../fonts/PlayfairDisplay-Bold.ttf);
 }
 
+@import url('https://fonts.googleapis.com/css?family=Alegreya');
+
 .header_content {
     position: relative;
 }
@@ -69,7 +71,7 @@ a {
 
 #img-right-content {
     display: block;
-    margin: 7% auto;
+    margin: 14% auto;
 }
 
 
@@ -83,8 +85,23 @@ a {
     margin-top: 3.5%;
 }
 
+.alegreya {
+    font-family: 'Alegreya', serif;
+}
+
+#title-left-content {
+    font-size: 48px;
+
+}
+
+#subtitle-left-content {
+    font-size: 14px
+
+
+}
+
 #lorem {
-    margin: 0 auto;
+    margin: 4% auto;
     max-width: 50%;
 }
 
