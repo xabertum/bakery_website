@@ -93,9 +93,9 @@ a {
 }
 
 
-#avatar {
+#avatar, #avatar-text {
     display: block;
-    margin: 0 auto;
+    margin: 4% auto;
 }
 
 
