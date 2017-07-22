@@ -85,6 +85,7 @@ a {
 
 .alegreya {
     font-family: 'Alegreya', serif;
+    font-weight: bold;
 }
 
 #title-left-content {
@@ -95,6 +96,7 @@ a {
 #subtitle-left-content {
     font-size: 14px;
     color: #a47d5e;
+    font-weight: bold;
 }
 
 #lorem {
@@ -104,8 +106,13 @@ a {
     font-size: 1.2em;
 }
 
-#avatar,
 #avatar-text {
+    display: block;
+    margin: 3% auto 15% auto;
+
+}
+
+#avatar {
     display: block;
     margin: 3% auto;
 }
