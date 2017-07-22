@@ -57,7 +57,7 @@ a {
 }
 
 #img-bottom-header {
-    position: fixed;
+    position: absolute;
     top: 96%;
     left: 50%;
     z-index: 1
@@ -83,8 +83,8 @@ a {
 
 #img-right-content {
     position: absolute;
-    right: 34%;
-    margin-top: 7%;
+    right: 25%;
+    margin: 7% auto;
     
     
 }
