@@ -88,7 +88,17 @@ a {
     
     
 }
+/***********************************/
 
+
+.center-text {
+    text-align: center;
+
+}
+
+#text-left {
+    margin-top: 3.5%;
+}
 
 
 
