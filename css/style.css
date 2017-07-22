@@ -4,7 +4,6 @@
 }
 
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
-
 .header_content {
     position: relative;
 }
@@ -68,7 +67,6 @@ a {
     z-index: 0
 }
 
-
 #img-right-content {
     display: block;
     margin: 14% auto;
@@ -92,15 +90,11 @@ a {
 #title-left-content {
     font-size: 48px;
     color: #56534c;
-
 }
 
 #subtitle-left-content {
     font-size: 14px;
     color: #a47d5e;
-
-
-
 }
 
 #lorem {
@@ -110,8 +104,8 @@ a {
     font-size: 1.2em;
 }
 
-
-#avatar, #avatar-text {
+#avatar,
+#avatar-text {
     display: block;
     margin: 3% auto;
 }
