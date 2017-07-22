@@ -57,7 +57,7 @@ a {
 }
 
 #img-bottom-header {
-    position: absolute;
+    position: fixed;
     top: 96%;
     left: 50%;
     z-index: 1
