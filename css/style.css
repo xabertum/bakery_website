@@ -70,30 +70,22 @@ a {
     z-index: 0
 }
 
-
 #img-left-content {
     position: absolute;
     left: 34%;
     margin-top: 7%;
-    
-    
 }
-
-
 
 #img-right-content {
-    position: absolute;
-    right: 25%;
+    display: block;
     margin: 7% auto;
-    
-    
 }
-/***********************************/
 
+
+/***********************************/
 
 .center-text {
     text-align: center;
-
 }
 
 #text-left {
@@ -105,15 +97,15 @@ a {
     max-width: 50%;
 }
 
-#right-content {
 
+#avatar {
+    display: block;
     margin: 0 auto;
-
 }
 
 
-
 /***********************************/
+
 @media all and (max-width: 1440px) {
     #header_title {
         font-size: 5em;
