@@ -70,11 +70,6 @@ a {
     z-index: 0
 }
 
-#img-left-content {
-    position: absolute;
-    left: 34%;
-    margin-top: 7%;
-}
 
 #img-right-content {
     display: block;
