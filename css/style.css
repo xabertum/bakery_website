@@ -106,8 +106,13 @@ a {
     font-size: 1.2em;
 }
 
-#avatar,
 #avatar-text {
+    display: block;
+    margin: 3% auto 15% auto;
+
+}
+
+#avatar {
     display: block;
     margin: 3% auto;
 }
