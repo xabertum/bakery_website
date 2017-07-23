@@ -37,8 +37,9 @@ background-color: #000;
 
 }
 
-.navbar-nav {
+.navbar-nav li {
     padding-top: 15px;
+    padding-left: 80px;
 
 }
 
