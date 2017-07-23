@@ -36,9 +36,17 @@ a {
     height: 6%;
 }
 
+
+.navbar-mav {
+    width: 75%;
+}
+
 .navbar-nav li {
-    padding-top: 15px;
-    padding-left: 80px;
+    padding-top: 1%;
+    padding-left: 5%;
+}
+.navbar-nav li img {
+    padding-top: 15%;
 }
 
 
