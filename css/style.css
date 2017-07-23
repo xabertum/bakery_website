@@ -3,6 +3,11 @@
     src: url(../fonts/PlayfairDisplay-Bold.ttf);
 }
 
+@font-face {
+    font-family: scriptina;
+    src: url(../fonts/SCRIPTIN.ttf);
+}
+
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
 .header_content {
     position: relative;
@@ -19,6 +24,18 @@ a {
     color: white;
 }
 
+
+#logo-navbar {
+    font-family: scriptina;
+    font-size: 30pt;
+}
+
+.navbar {
+
+
+}
+
+/********************************/
 #header_title {
     color: white;
     font-family: playFairDisplay;
