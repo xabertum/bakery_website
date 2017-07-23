@@ -24,28 +24,26 @@ a {
     color: white;
 }
 
-
 #logo-navbar {
     font-family: scriptina;
     font-size: 30pt;
-
 }
 
-.navbar, .navbar:hover {
-background-color: #000;
+.navbar,
+.navbar:hover {
+    background-color: #000;
     opacity: 0.4;
     height: 6%;
-
 }
 
 .navbar-nav li {
     padding-top: 15px;
     padding-left: 80px;
-
-
 }
 
+
 /********************************/
+
 #header_title {
     color: white;
     font-family: playFairDisplay;
