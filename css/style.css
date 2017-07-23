@@ -28,18 +28,20 @@ a {
 #logo-navbar {
     font-family: scriptina;
     font-size: 30pt;
+
 }
 
 .navbar, .navbar:hover {
 background-color: #000;
     opacity: 0.4;
-    height: 7%;
+    height: 6%;
 
 }
 
 .navbar-nav li {
     padding-top: 15px;
     padding-left: 80px;
+
 
 }
 
