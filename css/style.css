@@ -30,8 +30,9 @@ a {
     font-size: 30pt;
 }
 
-.navbar {
-
+.navbar, .navbar:hover {
+background-color: #000;
+    opacity: 0.4;
 
 }
 
