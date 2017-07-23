@@ -33,6 +33,11 @@ a {
 .navbar, .navbar:hover {
 background-color: #000;
     opacity: 0.4;
+    height: 9%;
+
+}
+
+.nav .navbar-nav {
 
 }
 
