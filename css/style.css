@@ -170,6 +170,13 @@ a {
     }
 }
 
+@media all and(max-width: 1366px) {
+    .navbar-nav li {
+        padding-top: 0.5%;
+        padding-left: 6%;
+    }
+}
+
 @media all and (max-width: 1000px) {
     #header_title {
         font-size: 1.2em;
