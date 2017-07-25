@@ -160,6 +160,19 @@ a {
 
 /***********************************/
 
+#pancakes-text {
+    position: relative;
+}
+
+#pancakes-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+
+/***********************************/
+
 @media all and (max-width: 1666px) {
     #header_title {
         font-size: 5em;
