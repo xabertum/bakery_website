@@ -45,15 +45,15 @@ a {
     padding-left: 8%;
 }
 
-.navbar-nav li img  {
+.navbar-nav li img {
     padding-top: 15%;
 }
 
 .liSeparator {
     margin-top: 1%;
     font-weight: bold;
-
 }
+
 
 /********************************/
 
@@ -213,6 +213,13 @@ a {
 
 /***********************************/
 
+@media all and (max-width: 2559px) {
+    .navbar-nav>li {
+        padding-top: 0.3%;
+        padding-left: 5%;
+    }
+}
+
 @media all and (max-width: 1919px) {
     #header_title {
         font-size: 6em;
@@ -226,7 +233,6 @@ a {
         padding-left: 4%;
     }
 }
-
 
 @media all and (max-width: 1666px) {
     #header_title {
