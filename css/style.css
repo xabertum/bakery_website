@@ -9,10 +9,6 @@
 }
 
 @import url('https://fonts.googleapis.com/css?family=Alegreya');
-.header_content {
-    position: relative;
-}
-
 .navbar {
     position: absolute;
     margin: 0 auto;
@@ -55,6 +51,10 @@ a {
 
 
 /********************************/
+
+.header_content {
+    position: relative;
+}
 
 #header_title {
     color: white;
@@ -166,8 +166,29 @@ a {
 
 #pancakes-title {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 27%;
+    left: 47%;
+    font-family: alegreya;
+    font-size: 3em;
+    color: #56534c;
+    font-weight: bold;
+}
+
+#pancakes-subtitle {
+    position: absolute;
+    top: 37%;
+    left: 47%;
+    text-transform: uppercase;
+    font-family: alegreya;
+    color: #a47d5e;
+    font-weight: bold;
+    font-size: 1.1em
+}
+
+#lorem-pancakes {
+    max-width: 50%;
+    line-height: 28px;
+    font-size: 1.2em;
 }
 
 
