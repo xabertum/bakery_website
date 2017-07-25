@@ -202,11 +202,26 @@ a {
 }
 
 #pancakes-img>img {
-    padding-left: 45px;
+    padding-left: 40px;
 }
 
 
 /***********************************/
+
+@media all and (max-width: 1919px) {
+    #header_title {
+        font-size: 6em;
+    }
+    #header-subtitle,
+    #header-subtitle-2 {
+        font-size: 1.5em;
+    }
+    .navbar-nav>li {
+        padding-top: 0.3%;
+        padding-left: 6%;
+    }
+}
+
 
 @media all and (max-width: 1666px) {
     #header_title {
