@@ -45,10 +45,13 @@ a {
     padding-left: 8%;
 }
 
-.navbar-nav li img {
+.navbar-nav li img  {
     padding-top: 15%;
 }
 
+.liSeparator {
+    margin-top: 1%
+}
 
 /********************************/
 
@@ -218,7 +221,7 @@ a {
     }
     .navbar-nav>li {
         padding-top: 0.3%;
-        padding-left: 6%;
+        padding-left: 4%;
     }
 }
 
