@@ -257,6 +257,11 @@ a {
         padding-top: 0.3%;
         padding-left: 3%;
     }
+
+    #pancakes-img>img {
+    padding-left: 15px;
+    display: inline-block;
+}
 }
 
 @media all and (max-width: 1252px) {
