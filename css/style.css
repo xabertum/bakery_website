@@ -208,6 +208,7 @@ a {
 
 #pancakes-img>img {
     padding-left: 40px;
+    display: inline-block;
 }
 
 
@@ -254,7 +255,7 @@ a {
 @media all and (max-width: 1366px) {
     .navbar-nav>li {
         padding-top: 0.3%;
-        padding-left: 5%;
+        padding-left: 3%;
     }
 }
 
