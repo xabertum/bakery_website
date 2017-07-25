@@ -187,13 +187,13 @@ a {
         padding-left: 4%;
     }
 }
+
 @media all and (max-width: 1157px) {
     .navbar-nav>li {
         padding-top: 0.3%;
         padding-left: 3%;
     }
 }
-
 
 
 }
