@@ -32,9 +32,7 @@ a {
     height: 6%;
 }
 
-.navbar.navbar-fixed-top {
-    margin-left: 7%;
-}
+
 
 .nav.navbar-nav {
     width: 75%;
@@ -229,11 +227,14 @@ a {
 
 /***********************************/
 
-@media all and (max-width: 2559px) {
+@media all and (max-width: 2560px) {
     .navbar-nav>li {
-        padding-top: 0.3%;
+        padding-top: 0.8%;
         padding-left: 5%;
     }
+    .navbar.navbar-fixed-top {
+    margin-left: 12%;
+}
 }
 
 @media all and (max-width: 1919px) {
