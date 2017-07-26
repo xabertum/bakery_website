@@ -271,14 +271,18 @@ a {
     }
 }
 
-@media all and (max-width: 1366px) {
+@media all and (max-width: 1440px) {
     .navbar-nav>li {
         padding-top: 0.3%;
-        padding-left: 3%;
+        padding-left: 2%;
     }
     #pancakes-img>img {
         padding-left: 15px;
         display: inline-block;
+    }
+    .navbar-nav>li {
+        padding-top: 0.3%;
+        padding-left: 3.7%;
     }
 }
 
