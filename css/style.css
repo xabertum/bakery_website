@@ -32,8 +32,6 @@ a {
     height: 6%;
 }
 
-
-
 .nav.navbar-nav {
     width: 75%;
 }
@@ -106,6 +104,7 @@ a {
     left: 50.65%;
     z-index: 0
 }
+
 
 #img-right-content {
     display: block;
@@ -227,8 +226,6 @@ a {
 #breakfast-title {
     font-size: 4em;
     letter-spacing: 2px
-
-
 }
 
 #breakfast-subtitle {
@@ -238,12 +235,12 @@ a {
     top: 33%;
     left: 2%;
     color: #a47d5e;
-
 }
 
 #full-breakfast {
     margin-top: 35%;
 }
+
 
 /***********************************/
 
@@ -253,8 +250,8 @@ a {
         padding-left: 5%;
     }
     .navbar.navbar-fixed-top {
-    padding-left: 12%;
-}
+        padding-left: 12%;
+    }
 }
 
 @media all and (max-width: 1919px) {
@@ -302,9 +299,8 @@ a {
         padding-left: ;
     }
     .nav.navbar-nav {
-    width: 80%;
-}
-
+        width: 80%;
+    }
 }
 
 @media all and (max-width: 1157px) {
