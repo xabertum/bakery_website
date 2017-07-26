@@ -109,7 +109,7 @@ a {
 
 #img-right-content {
     display: block;
-    margin: 16% auto;
+    margin: 8% auto;
     width: 75%;
 }
 
@@ -224,6 +224,26 @@ a {
     color: white;
 }
 
+#breakfast-title {
+    font-size: 4em;
+    letter-spacing: 2px
+
+
+}
+
+#breakfast-subtitle {
+    font-size: 1.5em;
+    font-variant: small-caps;
+    position: absolute;
+    top: 33%;
+    left: 2%;
+    color: #a47d5e;
+
+}
+
+#full-breakfast {
+    margin-top: 35%;
+}
 
 /***********************************/
 
@@ -233,7 +253,7 @@ a {
         padding-left: 5%;
     }
     .navbar.navbar-fixed-top {
-    margin-left: 12%;
+    padding-left: 12%;
 }
 }
 
