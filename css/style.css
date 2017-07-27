@@ -243,7 +243,18 @@ a {
     letter-spacing: 2px;
 }
 
+.lorem-breakfast {
+    color: #c2beba;
+    font-size: 16px;
+}
 
+.breakfast-price {
+    color: #dfc691;
+    font-size: 36pt;
+
+
+
+}
 
 
 /***********************************/
