@@ -105,7 +105,6 @@ a {
     z-index: 0
 }
 
-
 #img-right-content {
     display: block;
     margin: 8% auto;
@@ -218,7 +217,7 @@ a {
 
 #breakfast-text {
     position: absolute;
-    top: 7%;
+    top: 13%;
     left: 15%;
     color: white;
     width: 25%;
@@ -227,7 +226,6 @@ a {
 #breakfast-title {
     font-size: 4em;
     letter-spacing: 2px;
-
 }
 
 #breakfast-subtitle {
@@ -238,7 +236,7 @@ a {
 }
 
 #full-breakfast {
-    margin-top: 15%;
+    margin-top: 12%;
     font-size: 2em;
     letter-spacing: 2px;
 }
@@ -251,9 +249,18 @@ a {
 .breakfast-price {
     color: #dfc691;
     font-size: 36pt;
+}
 
+#toast {
+    margin-top: 12%;
+    font-size: 2em;
+    letter-spacing: 2px;
+}
 
-
+#muffins {
+    margin-top: 12%;
+    font-size: 2em;
+    letter-spacing: 2px;
 }
 
 
