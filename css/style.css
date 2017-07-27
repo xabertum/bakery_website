@@ -263,6 +263,19 @@ a {
     letter-spacing: 2px;
 }
 
+#breakfast-text-card {
+    position: absolute;
+    top: 35%;
+    right: 16%;
+    width: 15%;
+}
+
+#card-title {
+    font-size: 44pt;
+    color: #56534c;
+}
+
+
 
 /***********************************/
 
