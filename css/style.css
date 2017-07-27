@@ -266,12 +266,12 @@ a {
 #breakfast-text-card {
     position: absolute;
     top: 35%;
-    right: 14%;
+    right: 14.3%;
     width: 19%;
 }
 
 .card-title {
-    font-size: 44pt;
+    font-size: 4em;
     color: #56534c;
 }
 
@@ -307,6 +307,14 @@ a {
         padding-top: 0.3%;
         padding-left: 4%;
     }
+    .card-title {
+        font-size: 3em;
+    }
+
+    #lorem-card {
+        padding-top: 4%;
+    }
+
 }
 
 @media all and (max-width: 1666px) {
