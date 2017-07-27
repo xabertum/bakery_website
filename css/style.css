@@ -315,6 +315,10 @@ a {
         padding-top: 4%;
     }
 
+    #muffins, #toast, #full-breakfast {
+        margin-top: 6%
+    }
+
 }
 
 @media all and (max-width: 1666px) {
