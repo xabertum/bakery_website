@@ -283,6 +283,21 @@ a {
 }
 
 
+/**********************************/
+
+.wrapper-jibarrito {
+    background-color: #f3f1e9;
+    height: 900px;
+    position: relative;
+}
+
+#sandwich-img {
+    position: absolute;
+    right: 0;
+    top: 20%;
+}
+
+
 /***********************************/
 
 @media all and (max-width: 2560px) {
@@ -318,6 +333,9 @@ a {
     #full-breakfast {
         margin-top: 6%
     }
+    #img-right-content {
+        margin: 16% auto;
+    }
 }
 
 @media all and (max-width: 1665px) {
@@ -333,9 +351,7 @@ a {
         padding-left: 6%;
     }
     #img-right-content {
-        display: block;
         margin: 16% auto;
-        width: 75%;
     }
 }
 
