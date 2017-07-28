@@ -301,7 +301,7 @@ a {
 #molino-text :first-child {
     position: absolute;
     width: 99.3%;
-    top: 15.5%;
+    top: 14%;
     font-size: 4em;
     color: #56534c;
 }
@@ -309,7 +309,7 @@ a {
 #molino-text :nth-child(2) {
     position: absolute;
     width: 99.3%;
-    top: 25%;
+    top: 22%;
     font-variant: small-caps;
     font-size: 1.8em;
      color: #a47d5e;
