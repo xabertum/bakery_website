@@ -291,11 +291,38 @@ a {
     position: relative;
 }
 
+
+#sandwich-molino {
+    margin: 3% auto;
+    position: absolute;
+    left: 47.8%;
+}
+
+#molino-text :first-child {
+    position: absolute;
+    width: 99.3%;
+    top: 15.5%;
+    font-size: 4em;
+    color: #56534c;
+}
+
+#molino-text :nth-child(2) {
+    position: absolute;
+    width: 99.3%;
+    top: 25%;
+    font-variant: small-caps;
+    font-size: 1.8em;
+     color: #a47d5e;
+
+
+}
+
 #sandwich-img {
     position: absolute;
     right: 0;
-    top: 20%;
+    top: 39%;
 }
+
 
 
 /***********************************/
