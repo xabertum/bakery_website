@@ -313,13 +313,15 @@ a {
     color: #a47d5e;
 }
 
-
+.wrapper {
+    position: relative;
+    width: 100%;
+}
 
 #sandwich-left-img {
     position: absolute;
     left: 36%;
-    padding-top: 30%;
-    display: block;
+    top: 16vh;
 
 
 }
