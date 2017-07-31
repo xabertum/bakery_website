@@ -178,7 +178,7 @@ a {
 
 #pancakes-subtitle {
     position: absolute;
-    top: 37%;
+    top: 33%;
     left: 47%;
     text-transform: uppercase;
     font-family: alegreya;
@@ -329,7 +329,6 @@ a {
     position: absolute;
     right: 16%;
     width: 75%;
-
 }
 
 .row-margin {
@@ -346,6 +345,19 @@ a {
     }
     .navbar.navbar-fixed-top {
         padding-left: 12%;
+    }
+    #lorem {
+        font-size: 1.5em;
+        font-weight: 500;
+    }
+    #lorem-pancakes,
+    {
+        font-size: 1.5em;
+        font-weight: 500;
+    }
+    #lorem-card {
+        font-size: 1.5em;
+        padding-top: 5%;
     }
 }
 
@@ -378,34 +390,20 @@ a {
     #img-right-content {
         margin: 16% auto;
     }
-
 }
 
-@media all and (max-width: 1665px) {
-    #header_title {
-        font-size: 5em;
-    }
-    #header-subtitle,
-    #header-subtitle-2 {
-        font-size: 1.5em;
-    }
-    .navbar-nav>li {
-        padding-top: 0.3%;
-        padding-left: 6%;
-    }
-    #img-right-content {
-        margin: 16% auto;
-    }
-}
 
-@media all and (max-width: 1440px) {
+@media all and (max-width: 1439px) {
     #pancakes-img>img {
         padding-left: 15px;
         display: inline-block;
     }
     .navbar-nav>li {
         padding-top: 0.3%;
-        padding-left: 3.3%;
+        padding-left: 2.5%;
+    }
+    .card-title {
+        font-size: 2.5em;
     }
     #lorem-card {
         font-size: 1em
@@ -421,28 +419,18 @@ a {
         width: 80%;
     }
     .card-title {
-        font-size: 2.5em;
+        font-size: 2em;
     }
-}
-
-#lorem-card {
-    font-size: 1em
-}
-
 
 }
-@media all and (max-width: 1157px) {
-    .navbar-nav>li {
-        padding-top: 0.3%;
-        padding-left: 3%;
-    }
-}
+
 
 }
 @media all and (max-width: 1024px) {
     .card-title {
         font-size: 0.5em;
     }
+
     #header_title {
         font-size: 1.2em;
     }
