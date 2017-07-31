@@ -327,13 +327,13 @@ a {
 
 #sandwich-img {
     position: absolute;
-    right: 0px;
-    display: block;
-    padding-top: 10%;
+    right: 16%;
+    width: 75%;
+
 }
 
 .row-margin {
-    margin-top: 175px;
+    margin-top: 375px;
 }
 
 
@@ -349,7 +349,7 @@ a {
     }
 }
 
-@media all and (max-width: 1919px) {
+@media all and (max-width: 1920px) {
     #header_title {
         font-size: 6em;
     }
@@ -378,6 +378,7 @@ a {
     #img-right-content {
         margin: 16% auto;
     }
+
 }
 
 @media all and (max-width: 1665px) {
