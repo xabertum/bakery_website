@@ -350,8 +350,7 @@ a {
         font-size: 1.5em;
         font-weight: 500;
     }
-    #lorem-pancakes
-    {
+    #lorem-pancakes {
         font-size: 1.5em;
         font-weight: 500;
     }
@@ -376,7 +375,6 @@ a {
     .card-title {
         font-size: 2.5em;
     }
-
     #pancakes-subtitle {
         padding-top: 1%;
     }
@@ -386,15 +384,11 @@ a {
         font-size: 1em;
         font-weight: 500
     }
-
-     #lorem-pancakes
-    {
+    #lorem-pancakes {
         font-size: 1.2em;
         font-weight: 500;
         top: 42%;
-
     }
-
     #muffins,
     #toast,
     #full-breakfast {
@@ -405,11 +399,10 @@ a {
     }
 }
 
-
 @media all and (max-width: 1439px) {
     #pancakes-img>img {
-        padding-left: 15px;
-        display: inline-block;
+        padding-left: 17px;
+        height: 75px;
     }
     .navbar-nav>li {
         padding-top: 0.3%;
@@ -421,6 +414,7 @@ a {
     #lorem-card {
         font-size: 1em
     }
+
 }
 
 @media all and (max-width: 1366px) {
@@ -434,7 +428,6 @@ a {
     .card-title {
         font-size: 2em;
     }
-
 }
 
 
