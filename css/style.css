@@ -338,7 +338,7 @@ a {
 
 /***********************************/
 
-@media all and (max-width: 2560px) {
+@media all and (max-width: 2559px) {
     .navbar-nav>li {
         padding-top: 0.8%;
         padding-left: 5%;
@@ -350,7 +350,7 @@ a {
         font-size: 1.5em;
         font-weight: 500;
     }
-    #lorem-pancakes,
+    #lorem-pancakes
     {
         font-size: 1.5em;
         font-weight: 500;
@@ -382,6 +382,13 @@ a {
         font-size: 1.2em;
         font-weight: 500
     }
+
+     #lorem-pancakes
+    {
+        font-size: 1.2em;
+        font-weight: 500;
+    }
+
     #muffins,
     #toast,
     #full-breakfast {
