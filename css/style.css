@@ -371,10 +371,14 @@ a {
     }
     .navbar-nav>li {
         padding-top: 0.3%;
-        padding-left: 4%;
+        padding-left: 3%;
     }
     .card-title {
         font-size: 3em;
+    }
+
+    #pancakes-subtitle {
+        padding-top: 1%;
     }
     #lorem-card {
         padding-top: 9%;
@@ -387,6 +391,8 @@ a {
     {
         font-size: 1.2em;
         font-weight: 500;
+        top: 42%;
+
     }
 
     #muffins,
