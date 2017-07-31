@@ -413,7 +413,6 @@ a {
     .navbar-nav>li {
         padding-top: 0.3%;
         padding-left: 2.5%;
-
     }
     .nav.navbar-nav {
         width: 80%;
@@ -440,12 +439,11 @@ a {
     }
 }
 @media all and (max-width: 992px) {
-    #img-bottom-header {
+    #img-bottom-header,
+    #sandwich-img,
+    #pancakes-text,
+    #text-container {
         display: none;
-    }
-
-    #sandwich-img {
-        visibility: hidden;
     }
 }
 
