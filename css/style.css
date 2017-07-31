@@ -271,7 +271,7 @@ a {
 }
 
 .card-title {
-    font-size: 4.5em;
+    font-size: 4em;
     color: #56534c;
 }
 
@@ -362,11 +362,13 @@ a {
         padding-left: 4%;
     }
     .card-title {
-        font-size: 2.5em;
+        font-size: 3em;
     }
     #lorem-card {
-        padding-top: 4%;
+        padding-top: 9%;
         line-height: 23px;
+        font-size: 1.2em;
+        font-weight: 500
     }
     #muffins,
     #toast,
@@ -417,8 +419,17 @@ a {
     .nav.navbar-nav {
         width: 80%;
     }
+    .card-title {
+        font-size: 2.5em;
+    }
 }
 
+#lorem-card {
+    font-size: 1em
+}
+
+
+}
 @media all and (max-width: 1157px) {
     .navbar-nav>li {
         padding-top: 0.3%;
@@ -426,14 +437,11 @@ a {
     }
 }
 
-
 }
 @media all and (max-width: 1024px) {
     .card-title {
         font-size: 0.5em;
     }
-}
-@media all and (max-width: 1000px) {
     #header_title {
         font-size: 1.2em;
     }
@@ -445,8 +453,6 @@ a {
     #text-container {
         display: none;
     }
-}
-
 }
 @media all and (max-width: 480px) {
     #header_title {
