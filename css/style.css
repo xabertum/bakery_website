@@ -299,9 +299,11 @@ a {
 #molino-text :first-child {
     position: absolute;
     width: 99.3%;
+    height: auto;
     top: 14%;
     font-size: 4em;
     color: #56534c;
+
 }
 
 #molino-text :nth-child(2) {
@@ -319,22 +321,19 @@ a {
 }
 
 #sandwich-left-img {
-    position: absolute;
-    left: 36%;
-    top: 16vh;
-
-
+    display: block;
+    margin: 17% auto;
 }
-
 
 #sandwich-img {
     position: absolute;
-    right:  0px;
+    right: 0px;
     display: block;
     padding-top: 10%;
-
 }
-
+.row-margin {
+    margin-top: 175px;
+}
 
 /***********************************/
 
