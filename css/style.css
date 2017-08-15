@@ -318,6 +318,7 @@ a {
 .wrapper {
     position: relative;
     width: 100%;
+    text-align: center;
 }
 
 #sandwich-left-img {
@@ -335,6 +336,11 @@ a {
     margin-top: 375px;
 }
 
+.wrapper > div {
+    position: absolute;
+    top: 34%;
+
+}
 
 /***********************************/
 
@@ -414,7 +420,6 @@ a {
     #lorem-card {
         font-size: 1em
     }
-
 }
 
 @media all and (max-width: 1366px) {
